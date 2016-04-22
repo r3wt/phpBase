@@ -1,0 +1,10 @@
+{
+    "require": {
+        "slim/slim": "~2.6",
+        "twig/twig": "~1.18",
+        "redbean-fvm/redbean-fvm": "~1.0",
+        "gabordemooij/redbean": "~4.2",
+        "wisembly/elephant.io": "^3.0",
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
